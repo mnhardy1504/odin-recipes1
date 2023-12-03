@@ -1,0 +1,13 @@
+2023-12-03 17:31:15.453 [info] Extension host with pid 21876 started
+2023-12-03 17:31:15.500 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-03 17:31:15.502 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-12-03 17:31:15.669 [info] Lock '/home/hardymn/.vscode-server/data/User/workspaceStorage/379f218e8f7adade349497fa890c5d5a/vscode.lock': Lock acquired.
+2023-12-03 17:31:16.413 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-03 17:31:16.527 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-03 17:31:16.529 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-03 17:31:17.148 [info] Eager extensions activated
+2023-12-03 17:31:17.149 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-03 17:31:17.150 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-03 17:31:17.150 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-12-03 17:31:58.204 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-12-03 17:32:29.098 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
