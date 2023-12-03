@@ -35,3 +35,58 @@
 2023-12-03 17:15:36.849 [info] > git config --get commit.template [9ms]
 2023-12-03 17:15:36.851 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
 2023-12-03 17:15:36.894 [info] > git status -z -uall [34ms]
+2023-12-03 17:15:52.709 [info] > git add -A -- . [14068ms]
+2023-12-03 17:15:52.709 [info] warning: adding embedded git repository: .nvm
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> .nvm
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached .nvm
+hint: 
+hint: See "git help submodule" for more information.
+warning: adding embedded git repository: RockPaperScissors
+warning: adding embedded git repository: flexboxlanding
+warning: adding embedded git repository: javascript-exercises
+warning: adding embedded git repository: repos/Etch-a-Sketch
+warning: adding embedded git repository: repos/css-exercises
+warning: adding embedded git repository: repos/member-montel-rockpaperscissors
+warning: adding embedded git repository: repos/odin-recipes
+2023-12-03 17:15:53.299 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [580ms]
+2023-12-03 17:15:53.322 [info] > git config --get commit.template [2ms]
+2023-12-03 17:15:53.349 [info] > git config --get commit.template [3ms]
+2023-12-03 17:15:53.369 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-12-03 17:15:53.524 [info] > git status -z -uall [139ms]
+2023-12-03 17:15:53.739 [info] > git config --get commit.template [89ms]
+2023-12-03 17:15:53.757 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-12-03 17:15:53.879 [info] > git status -z -uall [109ms]
+2023-12-03 17:15:56.912 [info] > git config --get commit.template [3ms]
+2023-12-03 17:15:56.942 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2023-12-03 17:15:57.112 [info] > git ls-files --stage -- /home/hardymn/repos/calculator/calculator.js [15ms]
+2023-12-03 17:15:57.163 [info] > git cat-file -s fa450b2155132e6f38ad6c62574761c324cc5066 [31ms]
+2023-12-03 17:15:57.220 [info] > git status -z -uall [261ms]
+2023-12-03 17:15:57.276 [info] > git show --textconv :repos/calculator/calculator.js [72ms]
+2023-12-03 17:15:57.577 [info] > git check-ignore -v -z --stdin [16ms]
+2023-12-03 17:21:16.540 [info] > git config --get commit.template [31ms]
+2023-12-03 17:21:16.547 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [23ms]
+2023-12-03 17:21:16.568 [info] > git ls-files --stage -- /home/hardymn/repos/calculator/calculator.js [32ms]
+2023-12-03 17:21:16.591 [info] > git cat-file -s fa450b2155132e6f38ad6c62574761c324cc5066 [3ms]
+2023-12-03 17:21:16.620 [info] > git show --textconv :repos/calculator/calculator.js [8ms]
+2023-12-03 17:21:16.920 [info] > git status -z -uall [354ms]
+2023-12-03 17:21:21.936 [info] > git config --get commit.template [1ms]
+2023-12-03 17:21:21.943 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-03 17:21:22.004 [info] > git status -z -uall [54ms]
+2023-12-03 17:21:27.024 [info] > git config --get commit.template [8ms]
+2023-12-03 17:21:27.024 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-03 17:21:27.074 [info] > git status -z -uall [45ms]
+2023-12-03 17:21:32.090 [info] > git config --get commit.template [1ms]
+2023-12-03 17:21:32.111 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-03 17:21:32.203 [info] > git status -z -uall [73ms]
+2023-12-03 17:21:37.219 [info] > git config --get commit.template [1ms]
+2023-12-03 17:21:37.233 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-12-03 17:21:37.306 [info] > git status -z -uall [66ms]
