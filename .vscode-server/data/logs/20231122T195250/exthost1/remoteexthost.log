@@ -1,0 +1,16 @@
+2023-11-22 19:52:55.962 [info] Extension host with pid 5062 started
+2023-11-22 19:52:56.046 [info] Lock '/home/hardymn/.vscode-server/data/User/workspaceStorage/485e6d783fdd2cbe38141a4d9a2c3a4a/vscode.lock': Lock acquired.
+2023-11-22 19:52:56.241 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-22 19:52:56.244 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-11-22 19:52:57.843 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-22 19:52:57.871 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-11-22 19:52:58.036 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-22 19:52:58.037 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-22 19:52:59.883 [info] Eager extensions activated
+2023-11-22 19:52:59.884 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-22 19:52:59.887 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-22 19:52:59.888 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-11-22 19:53:11.886 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-11-22 19:53:11.888 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-11-22 19:53:13.340 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2023-11-22 19:53:49.332 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'

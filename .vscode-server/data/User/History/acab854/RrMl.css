@@ -1,0 +1,12 @@
+.item {
+    width:16px;
+    height:16px;
+    background: #254de4;
+    color: #fff;
+}
+
+.flex-container{
+    display: flex;
+    background-color: #f4f4f4;
+    
+}

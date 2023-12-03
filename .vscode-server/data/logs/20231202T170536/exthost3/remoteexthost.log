@@ -1,0 +1,362 @@
+2023-12-03 16:15:36.634 [info] Extension host with pid 7872 started
+2023-12-03 16:15:36.669 [info] Lock '/home/hardymn/.vscode-server/data/User/workspaceStorage/bb30ff947b874578c68330649ef5cf1d/vscode.lock': Lock acquired.
+2023-12-03 16:15:36.733 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-12-03 16:15:36.735 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-03 16:15:37.738 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-03 16:15:37.836 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-03 16:15:37.836 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-03 16:15:38.325 [info] Eager extensions activated
+2023-12-03 16:15:38.326 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-03 16:15:38.326 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-03 16:15:38.327 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-12-03 16:15:39.349 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:15:40.880 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:23:38.225 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:23:43.914 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:36:27.494 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:50:29.720 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:51:02.640 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:51:07.806 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:51:13.170 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:51:18.396 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:51:23.552 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:55:21.890 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:55:27.039 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:55:32.213 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:55:37.380 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:55:42.526 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:55:48.613 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:55:53.756 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:55:58.939 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:56:04.161 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:56:09.335 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:56:14.483 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:56:37.191 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:56:42.348 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:56:47.507 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:56:52.670 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:57:07.329 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:57:12.537 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7520
+2023-12-03 16:57:16.211 [info] Extension host terminating: received terminate message from renderer
+2023-12-03 16:57:16.214 [info] Lock '/home/hardymn/.vscode-server/data/User/workspaceStorage/bb30ff947b874578c68330649ef5cf1d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-12-03 16:57:16.554 [error] Canceled: Canceled
+	at new f (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at h.D [as value] (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1316925)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.z (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1332842)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337795
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337781)
+	at w.<anonymous> (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3572)
+	at w.dispose (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at w.<anonymous> (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1318937)
+	at w.dispose (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at o (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:7864)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at d.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:14047)
+	at s.z (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:17112)
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:15564)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at h.acceptChunk (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:11821)
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:11108)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:19408)
+	at c.acceptFrame (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:19214)
+	at l.n (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:17713)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:14933
+	at Socket.p (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:12838)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-12-03 16:57:16.555 [error] Canceled: Canceled
+	at new f (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at h.D [as value] (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1316925)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.z (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1332842)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337795
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337781)
+	at w.<anonymous> (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3572)
+	at w.dispose (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at w.<anonymous> (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1318937)
+	at w.dispose (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at o (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:7864)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at d.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:14047)
+	at s.z (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:17112)
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:15564)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at h.acceptChunk (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:11821)
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:11108)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:19408)
+	at c.acceptFrame (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:19214)
+	at l.n (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:17713)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:14933
+	at Socket.p (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:12838)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-12-03 16:57:16.556 [error] Canceled: Canceled
+	at new f (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at h.D [as value] (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1316925)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.z (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1332842)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337795
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337781)
+	at w.<anonymous> (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3572)
+	at w.dispose (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at w.<anonymous> (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1318937)
+	at w.dispose (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at o (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:7864)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at d.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:14047)
+	at s.z (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:17112)
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:15564)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at h.acceptChunk (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:11821)
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:11108)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:19408)
+	at c.acceptFrame (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:19214)
+	at l.n (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:17713)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:14933
+	at Socket.p (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:12838)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-12-03 16:57:16.557 [error] Canceled: Canceled
+	at new f (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at h.D [as value] (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1316925)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.z (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1332842)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337795
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337781)
+	at w.<anonymous> (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3572)
+	at w.dispose (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at w.<anonymous> (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1318937)
+	at w.dispose (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at o (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:7864)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at d.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:14047)
+	at s.z (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:17112)
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:15564)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at h.acceptChunk (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:11821)
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:11108)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:19408)
+	at c.acceptFrame (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:19214)
+	at l.n (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:17713)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:14933
+	at Socket.p (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:12838)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-12-03 16:57:16.557 [error] Canceled: Canceled
+	at new f (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at h.D [as value] (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1316925)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.z (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1332842)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337795
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337781)
+	at w.<anonymous> (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3572)
+	at w.dispose (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at w.<anonymous> (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1318937)
+	at w.dispose (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at o (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:7864)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at d.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:14047)
+	at s.z (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:17112)
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:15564)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at h.acceptChunk (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:11821)
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:11108)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:19408)
+	at c.acceptFrame (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:19214)
+	at l.n (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:17713)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:14933
+	at Socket.p (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:12838)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-12-03 16:57:16.558 [error] Canceled: Canceled
+	at new f (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at set b [as b] (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/github/dist/extension.js:2:714708)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/github/dist/extension.js:2:715349
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1408111)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.z (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1332842)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337795
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337781)
+	at w.<anonymous> (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3572)
+	at w.dispose (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at w.<anonymous> (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1318937)
+	at w.dispose (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at o (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:7864)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at d.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:14047)
+	at s.z (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:17112)
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:15564)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at h.acceptChunk (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:11821)
+	at h.value (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:11108)
+	at c.y (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:19408)
+	at c.acceptFrame (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:19214)
+	at l.n (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:17713)
+	at /home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:14933
+	at Socket.p (/home/hardymn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:12838)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-12-03 16:57:16.580 [info] Extension host with pid 7872 exiting with code 0

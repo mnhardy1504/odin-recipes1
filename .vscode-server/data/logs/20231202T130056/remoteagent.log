@@ -1,0 +1,18 @@
+2023-12-02 13:00:56.331 [info] 
+
+
+
+
+2023-12-02 13:00:56.412 [info] Extension host agent started.
+2023-12-02 13:00:56.780 [info] [127.0.0.1][e8a1319c][ManagementConnection] New connection established.
+2023-12-02 13:01:00.115 [info] [127.0.0.1][e815e4d1][ExtensionHostConnection] New connection established.
+2023-12-02 13:01:00.124 [info] [127.0.0.1][e815e4d1][ExtensionHostConnection] <911> Launched Extension Host Process.
+2023-12-02 13:16:28.567 [info] [127.0.0.1][e815e4d1][ExtensionHostConnection] The client has reconnected.
+2023-12-02 13:16:29.378 [info] [127.0.0.1][e8a1319c][ManagementConnection] The client has reconnected.
+2023-12-02 14:11:37.029 [info] [127.0.0.1][e8a1319c][ManagementConnection] The client has reconnected.
+2023-12-02 14:11:38.248 [info] [127.0.0.1][e815e4d1][ExtensionHostConnection] The client has reconnected.
+2023-12-02 14:45:47.483 [info] [127.0.0.1][e8a1319c][ManagementConnection] The client has reconnected.
+2023-12-02 14:45:49.612 [info] [127.0.0.1][e815e4d1][ExtensionHostConnection] The client has reconnected.
+2023-12-02 15:13:38.192 [warning] No ptyHost heartbeat after 6 seconds
+2023-12-02 15:13:44.427 [info] [127.0.0.1][e815e4d1][ExtensionHostConnection] The client has reconnected.
+2023-12-02 15:13:46.195 [info] [127.0.0.1][e8a1319c][ManagementConnection] The client has reconnected.

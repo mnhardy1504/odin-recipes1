@@ -1,0 +1,184 @@
+.header {
+    background-color: #1F2937; /* Header background color */
+    color: white; /* Text color inside the header */
+    display: flex;
+    justify-content: space-between; /* Space between logo and links */
+    align-items: center;
+    padding: 10px 20px; /* Add padding to the header */
+}
+
+.header-logo {
+    font-size: 24px; 
+     color: #f9faf8;
+     margin-right: 20px;
+}
+
+.header-links a {
+    text-decoration: none; /* Remove underlines from links */
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-left: 20px; /* Add spacing between links */
+}
+
+.header-links a:hover {
+    text-decoration: underline;
+}
+
+.flexbox-section {
+    background-color: #1F2937; /* Background color for the flexbox section */
+    color: #f9faf8; /* Text color inside the flexbox section */
+    display: flex;
+    justify-content: space-between; /* Space between content and image */
+    align-items: center;
+    padding: 20px; /* Add padding to the flexbox section */
+}
+
+.flexbox-content {
+    max-width: 60%; /* Adjust the maximum width of the content */
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bold; /* Extra-bold */
+    margin: 0; /* Remove default margin */
+}
+
+.subtext {
+    font-size: 18px;
+    color: #e5e7eb; /* Subtext color */
+    margin: 10px 0; /* Add spacing around subtext */
+}
+
+.image-container {
+    display: flex;
+    align-items: center; /* Vertically align content if needed */
+}
+
+.image-placeholder {
+    width: 450px;
+    height: 200px;
+    background-color: #5A5A5A;
+}
+
+.image-text {
+    font-size: 18px;
+    color: #e5e7eb;
+    text-align: center; 
+    padding: 80px;
+}
+
+.square-container {
+    display: flex;
+    justify-content:center; 
+    align-items: center;
+    flex-wrap: wrap; 
+    background-color: white;
+    padding: 10px; 
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: white; 
+    border: 4px solid #3882F6;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center; 
+    color: white;
+    margin: 20px; 
+    border-radius: 5px; 
+}
+
+.text-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: -50px;
+}
+
+.text-box {
+    width: 100px;
+    text-align: center;
+    margin: 25px;
+}
+
+.random {
+    text-align: center;
+    justify-content: center;
+    font-size: 36px
+}
+
+.quote-section {
+    background-color: #e5e7eb;
+    padding: 80px; 
+    text-align: center;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    margin-bottom: 10px; 
+}
+
+.quote-author {
+    font-style: light italic;
+    color: #1F2937;
+    text-align: right;
+    font-weight: 800;
+}
+
+.call-to-action-box {
+    display: flex; /* Use flexbox for layout */
+    background-color: #3882F6; /* White background for the container */
+    padding: 20px;
+    width: 900px;
+    margin: 75px auto;
+}
+
+.call-to-action-content {
+    flex-grow: 1; /* Make this div expand to fill the available space */
+    display: flex; /* Use flexbox within the container */
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items horizontally */
+    justify-content: center; /* Center items vertically */
+    max-width: 600px;
+    font-size: 18px;
+    color: white;
+}
+
+/* Style the rectangular blue box */
+.call-to-action-button {
+    background-color: #3882F6; /* Blue background for the button */
+    color: white;
+    padding: 10px 20px;
+    border: white;
+    border-radius: 5px;
+    justify-content: right;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+/* Add hover effect to the button */
+.call-to-action-content button:hover {
+    background-color: #1F5CFF; /* Darker blue on hover */
+}
+
+button {
+    background-color: #3882F6; 
+    color: white;
+    padding: 10px 20px; 
+    border: white;
+    border-radius: 20px;
+    font-size: 18px; 
+    cursor: pointer;
+    align-items: right;
+    text-align: right; 
+}
+
+button:hover {
+    background-color: #3882F6
+}

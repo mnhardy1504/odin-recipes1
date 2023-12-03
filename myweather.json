@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": -78.8458,
+        "lat": 35.6263
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 85.19,
+        "feels_like": 89.6,
+        "temp_min": 81.48,
+        "temp_max": 89.98,
+        "pressure": 1015,
+        "humidity": 60
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4,
+        "deg": 28,
+        "gust": 10
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1690833207,
+    "sys": {
+        "type": 2,
+        "id": 2003337,
+        "country": "US",
+        "sunrise": 1690798947,
+        "sunset": 1690849256
+    },
+    "timezone": -14400,
+    "id": 0,
+    "name": "Holly Springs",
+    "cod": 200
+}

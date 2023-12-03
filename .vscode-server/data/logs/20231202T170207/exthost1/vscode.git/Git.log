@@ -1,0 +1,16 @@
+2023-12-02 17:02:18.620 [info] Log level: Info
+2023-12-02 17:02:18.620 [info] Validating found git in: "git"
+2023-12-02 17:02:18.620 [info] Using git "2.34.1" from "git"
+2023-12-02 17:02:18.620 [info] > git rev-parse --show-toplevel [491ms]
+2023-12-02 17:02:18.620 [info] > git rev-parse --git-dir --git-common-dir [19ms]
+2023-12-02 17:02:18.620 [info] Open repository: /home/hardymn/repos/Etch-a-Sketch
+2023-12-02 17:02:18.726 [info] > git config --get commit.template [172ms]
+2023-12-02 17:02:18.812 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [36ms]
+2023-12-02 17:02:18.894 [info] > git status -z -uall [48ms]
+2023-12-02 17:02:18.999 [info] > git config --get commit.template [26ms]
+2023-12-02 17:02:19.048 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-12-02 17:02:19.105 [info] > git status -z -uall [21ms]
+2023-12-02 17:02:19.330 [info] > git show --textconv :index.js [58ms]
+2023-12-02 17:02:19.332 [info] > git check-ignore -v -z --stdin [5ms]
+2023-12-02 17:02:19.337 [info] > git ls-files --stage -- /home/hardymn/repos/Etch-a-Sketch/index.js [42ms]
+2023-12-02 17:02:19.361 [info] > git cat-file -s 679b0e989283b2735defa2ae98fadf9c01e9bed9 [9ms]

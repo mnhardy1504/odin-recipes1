@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JS Page Load Events</title>
+    </head>
+
+    <body> 
+        <div id="hello-div">
+            Hello World!
+        </div>
+        <script>
+const bar = "hello";
+document.addEventListener('DOMContentLoaded',() => {
+    const foo = document.getElementById("hello-div");
+    console.log("DOMContentLoaded event has occured,",foo);
+});
+
+
+        </script>
+    </body>
+</html>

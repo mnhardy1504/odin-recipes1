@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "python.defaultInterpreterPath": "C:\\Python311\\python.exe",
+    "editor.fontFamily": "Cascadia Mono",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "git.openRepositoryInParentFolders": "always"
+}
