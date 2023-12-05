@@ -9,3 +9,5 @@
 2023-12-05 11:13:56.440 [info] [127.0.0.1][326b44d0][ExtensionHostConnection] <175916> Launched Extension Host Process.
 2023-12-05 11:18:27.681 [info] [127.0.0.1][326b44d0][ExtensionHostConnection] <175916> [0mGET /styles.css [33m404[0m 21.293 ms - 149[0m
 
+2023-12-05 12:07:17.951 [info] [127.0.0.1][189eb8e1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-05 12:07:18.385 [info] [127.0.0.1][326b44d0][ExtensionHostConnection] <175916> Extension Host Process exited with code: 0, signal: null.
