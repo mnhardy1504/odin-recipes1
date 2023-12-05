@@ -1,7 +1,7 @@
 
 body {
     display: flex;
-    justify-content: left;
+    justify-content: center;
     align-items: left;
     height: 100vh;
     margin: 0;
@@ -13,6 +13,5 @@ body {
     grid-gap: 5px;
     max-width: 300px;
     margin: auto;
-    text-align: left;
-    color: brown;
+    text-align: center;
   }
